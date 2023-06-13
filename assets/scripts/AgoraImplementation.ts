@@ -1,5 +1,5 @@
 import { _decorator, Component, Node } from "cc";
-import { AgoraSDK } from "./agora_sdk";
+import AgoraSDK from "./agora_sdk";
 const { ccclass, property } = _decorator;
 
 @ccclass("AgoraImplementation")

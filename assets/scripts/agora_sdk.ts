@@ -21,7 +21,7 @@ let channelParameters = {
   remoteUid: null,
 };
 
-export class AgoraSDK {
+export default class AgoraSDK {
   private static _instance: any = null;
 
   agoraEngine: any = null;
