@@ -1,0 +1,11 @@
+{
+  "name": "Agora-Implementation-in-cocos",
+  "uuid": "1fda9ff9-fdba-49f9-a030-f833a82c8a5d",
+  "version": "3.6.3",
+  "creator": {
+    "version": "3.6.3"
+  },
+  "dependencies": {
+    "agora-rtc-sdk-ng": "^4.17.2"
+  }
+}
